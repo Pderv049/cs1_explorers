@@ -1,7 +1,7 @@
 package cs1.softwareProject.explorers;
 
 /* Reference: http://www.technotalkative.com/android-tab-bar-example-1/
- * 
+ * /////////////////
  * 
  * 
  * 
